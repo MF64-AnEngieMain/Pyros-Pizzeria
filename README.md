@@ -1,4 +1,6 @@
-# Pyros-Pizzeria
-A random little FNaF fangame.
+# Scratch Tutorials
+Do you program Scratch, but want to know more? Well, you've come to the right place!
 
-Coded in Scratch, you will find text files to help you recreate the game, and assets ripped straight from the game to truly recreate it. If this goes well, I'll post other Scratch games here as well.
+Here, people can share their knowledge for creating your own Scratch games :D
+
+HOW TO SUBMIT: Upload a folder containing text files that instruct users on how to program.
